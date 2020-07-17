@@ -21,6 +21,12 @@ div {
   background-color: blue;
 }
 
+.green{
+    background-color: green;
+}
+.pink{
+    background-color: hotpink;
+}
 .invisible {
   display: none;
 }
